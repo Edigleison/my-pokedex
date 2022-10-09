@@ -3,13 +3,19 @@ import CachedIcon from '@mui/icons-material/Cached';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 import {Button, IconButton} from "@mui/material";
+import {FunctionComponent} from "react";
 
-export const Controls = ({
+interface ControlsProps {
+  onRandom: () => void;
+  onPreview: () => void;
+  onNext: () => void;
+}
+
+export const Controls: FunctionComponent<ControlsProps> = ({
   onRandom,
   onPreview,
   onNext
 }) => {
-
   return (
     <div className={styles.container}>
       <div className={[styles.roundButton, styles.random].join(' ')}>

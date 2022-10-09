@@ -1,7 +1,8 @@
+import {FunctionComponent} from "react";
 import styles from "./style.module.css";
 import CatchingPokemonIcon from '@mui/icons-material/CatchingPokemon';
 
-export const Header = () => {
+export const Header: FunctionComponent = () => {
   return (
     <div className={styles.container}>
       <div className={styles.titleContainer}>
