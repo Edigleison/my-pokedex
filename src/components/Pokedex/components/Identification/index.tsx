@@ -60,6 +60,7 @@ export const Identification: FunctionComponent<IdentificationProps> = ({
           <Types values={pokemon.types} />
         </div>
       </div>
+
       <div className={styles.bottomContainer}>
         <span className={styles.name}>{`#${pokemon.id} - ${capitalize(pokemon.name)}`}</span>
       </div>

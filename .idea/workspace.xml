@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06ab769c-cc3e-468a-866d-fc96f9a9cbb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/types/types.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pokedex/components/Controls/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pokedex/components/Controls/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pokedex/components/Display/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pokedex/components/Display/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pokedex/components/Error/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pokedex/components/ErrorAlert/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pokedex/components/Error/style.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pokedex/components/ErrorAlert/style.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pokedex/components/Header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pokedex/components/Header/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pokedex/components/Identification/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pokedex/components/Identification/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pokedex/components/Loading/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pokedex/components/Loading/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pokedex/components/Photo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pokedex/components/Photo/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pokedex/components/Photo/style.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pokedex/components/Photo/style.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pokedex/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pokedex/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Pokedex/components/Controls/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pokedex/components/Controls/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Pokedex/components/Controls/style.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pokedex/components/Controls/style.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Pokedex/components/Identification/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pokedex/components/Identification/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

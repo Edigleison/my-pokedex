@@ -24,11 +24,11 @@ export const Controls: FunctionComponent<ControlsProps> = ({
         </IconButton>
       </div>
 
-      <Button onClick={onPreview} variant="contained" startIcon={<ArrowBackIcon />}>
+      <Button onClick={onPreview} variant="contained" color={"success"} startIcon={<ArrowBackIcon />}>
         Preview
       </Button>
 
-      <Button onClick={onNext} variant="contained" endIcon={<ArrowForwardIcon />}>
+      <Button onClick={onNext} variant="contained" color={"success"} endIcon={<ArrowForwardIcon />}>
         Next
       </Button>
     </div>
