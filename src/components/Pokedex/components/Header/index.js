@@ -1,10 +1,12 @@
 import styles from "./style.module.css";
+import CatchingPokemonIcon from '@mui/icons-material/CatchingPokemon';
 
 export const Header = () => {
   return (
     <div className={styles.container}>
       <div className={styles.titleContainer}>
-        <h1>Pokédex</h1>
+        <CatchingPokemonIcon />
+        <h1 className={styles.title}>Pokédex</h1>
       </div>
     </div>
   )

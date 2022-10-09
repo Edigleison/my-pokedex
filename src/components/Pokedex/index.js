@@ -2,11 +2,11 @@ import styles from "./style.module.css";
 import {Header} from "./components/Header";
 import {Display} from "./components/Display";
 import {useEffect, useState} from "react";
-import {Api} from "../../services/api";
 import {Identification} from "./components/Identification";
 import {Loading} from "./components/Loading";
 import {Controls} from "./components/Controls";
 import {Error} from "./components/Error";
+import {Api} from "../../services/api";
 
 export const Pokedex = () => {
   const [pokemon, setPokemon] = useState(null)

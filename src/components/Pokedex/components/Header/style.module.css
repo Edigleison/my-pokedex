@@ -8,6 +8,11 @@
 .titleContainer {
     display: flex;
     justify-content: center;
+    align-items: center;
     flex: 1;
     color: white;
+}
+
+.title {
+    margin-left: 8px;
 }
