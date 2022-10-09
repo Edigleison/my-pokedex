@@ -1,0 +1,134 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    flex: 1
+}
+
+.topContainer {
+    display: flex;
+    flex: 1.5;
+}
+.topLeftContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+}
+
+.topRightContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    flex: 1;
+}
+
+.middleContainer {
+    display: flex;
+    flex: 1;
+    background-color: black;
+}
+
+.bottomContainer {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+
+.name {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.attributeContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.attributeLabel {
+    margin: 6px 10px 6px 0px;
+    font-weight: bold;
+}
+
+.typesContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.typeValue {
+    border-radius: 20px;
+    padding: 2px 12px;
+    text-align: center;
+    margin-right: 8px;
+    margin-top: 8px
+}
+
+.type_normal {
+    background-color: orange;
+}
+.type_fighting {
+    background-color: skyblue;
+}
+.type_flying {
+    background-color: skyblue;
+}
+.type_poison {
+    background-color: indianred;
+}
+.type_ground {
+    background-color: green;
+}
+.type_rock {
+    background-color: saddlebrown;
+}
+.type_bug {
+    background-color: darkgreen;
+    color: white;
+}
+.type_ghost {
+    background-color: darkgray;
+}
+.type_steel {
+    background-color: gray;
+}
+.type_fire {
+    background-color: red;
+    color: white;
+}
+.type_water {
+    background-color: lightskyblue;
+}
+.type_grass {
+    background-color: forestgreen;
+}
+.type_electric {
+    background-color: #ffbd24;
+}
+.type_psychic {
+    background-color: purple;
+    color: white;
+}
+.type_ice {
+    background-color: cornflowerblue;
+}
+.type_dragon {
+    background-color: darkred;
+    color: white;
+}
+.type_dark {
+    background-color: dimgray;
+}
+.type_fairy {
+    background-color: pink;
+}
+.type_unknown {
+    background-color: indianred;
+}
+.type_shadow {
+    background-color: gray;
+}
+
+
