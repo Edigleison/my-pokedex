@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="06ab769c-cc3e-468a-866d-fc96f9a9cbb1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pokedex/components/Controls/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pokedex/components/Controls/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pokedex/components/Controls/style.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pokedex/components/Controls/style.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pokedex/components/Identification/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pokedex/components/Identification/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Pokedex/components/Header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pokedex/components/Header/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

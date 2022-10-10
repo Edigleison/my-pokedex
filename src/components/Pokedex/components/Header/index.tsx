@@ -7,7 +7,7 @@ export const Header: FunctionComponent = () => {
     <div className={styles.container}>
       <div className={styles.titleContainer}>
         <CatchingPokemonIcon />
-        <h1 className={styles.title}>Pokédex</h1>
+        <h1 className={styles.title}>Pokedex</h1>
       </div>
     </div>
   )
